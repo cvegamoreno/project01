@@ -11,7 +11,7 @@ public class Project01 {
             Num[3]=-2;
             Num[4]=5;
             Num[5]=7;
-            Num[6]=-49;
+            Num[6]=-489;
             Num[7]=3;
             Num[8]=-98;
             Num[9]=456;
